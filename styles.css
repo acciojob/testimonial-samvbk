@@ -13,5 +13,6 @@ div{
 .e{
 	text-align:right;
 	padding:2px;
-	margin-right:10px
+	margin-right:10px;
+	font-style:italic;
 }
